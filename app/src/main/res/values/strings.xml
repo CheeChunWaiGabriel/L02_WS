@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L02 WS</string>
+    <string name="Intro">Welcome to Android!</string>
+    <string name="TopButtonID">Button1</string>
+    <string name="HowBigIsText">Large Text</string>
+    <string name="LowButtonID">Button2</string>
+</resources>
